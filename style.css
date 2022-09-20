@@ -87,6 +87,8 @@ p{
 
 #warning
 {
+
+    padding-top:30px;
     font-style: italic;
     text-justify:auto;
     height: 50px;
@@ -191,7 +193,7 @@ p{
     border-style:solid;
     border-color:rgba(14, 47, 194, 0.538);
     padding:10px 10px 10px 10px;
-    margin :  10px 0px 10px 0px;
+    margin :  10px 10px 10px 10px;
 }
 
 .form-left form p
@@ -211,7 +213,6 @@ p{
 .form-left label
 {
     width: 100px;
-    padding-right:10px;
     text-align: center;
 }
 
